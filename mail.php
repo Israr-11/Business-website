@@ -9,7 +9,7 @@
   $subject = $_POST['subject'];
 
   $content="From: $name \n Email: $email \n Message: $message";
-  $recipient = "abdullahshabbirab0@gmail.com";
+  $recipient = "name@gmail.com";
   $mailheader = "From: $email \r\n";
   mail($recipient, $subject, $content, $mailheader) or die("Error!");
   echo "<script> alert('Email sent successfully'); </script>";
