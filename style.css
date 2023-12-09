@@ -32,7 +32,6 @@ h3,
 h4,
 h5,
 h6 {
-
   line-height: 2;
 }
 
@@ -48,7 +47,6 @@ h6 {
 }
 
 @media screen and (max-width: 1000px) {
-
   html,
   body {
     overflow-x: hidden;
@@ -56,7 +54,6 @@ h6 {
 }
 
 @media screen and (max-width: 800px) {
-
   html,
   body {
     overflow-x: hidden;
@@ -85,7 +82,6 @@ h6 {
 }
 
 @media screen and (max-width: 600px) {
-
   html,
   body {
     overflow-x: hidden;
@@ -93,7 +89,6 @@ h6 {
 }
 
 @media screen and (max-width: 480px) {
-
   html,
   body {
     overflow-x: hidden;
